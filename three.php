@@ -1,5 +1,5 @@
 <?php
-/*
+/*reset 2
  * php模拟post提交[三种方式]
  */
 $remote_sever = 'http://www.test.com/data.php'; //curl other
